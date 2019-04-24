@@ -1,2 +1,0 @@
-<<<<<<< HEAD
-puts "Hello World!"
